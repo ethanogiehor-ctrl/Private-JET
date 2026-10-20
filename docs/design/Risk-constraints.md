@@ -31,7 +31,7 @@ team proposes to manage them.
   error message when saving fails.
 
 ### Constraint 1: Limited Development Time
-- The team must complete the project within course deadlines.
+- The team must complete the project within course deadlines
 - Prioritize study-partner search and basic goal management.
 
 ### Constraint 2: Team Experience
