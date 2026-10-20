@@ -6,7 +6,7 @@ Pair Pressure is an app that basically helps university students find study part
 
 TEAM MEMBERS: 
 Ethan 223200421
-Jibraan 
+Jibraan 223527005
 Prince 223195282
 Toufiq 222893796
 
