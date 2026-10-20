@@ -20,3 +20,12 @@ Toufiq 222893796
 - [Architecture & Components](docs/design/Architecture.md)
 - [Data & Content](docs/design/Data-content.md)
 - [Risks & Constraints](docs/design/Risk-constraints.md)
+
+## Project Wiki
+- [Wiki Home](https://github.com/ethanogiehor-ctrl/Private-JET/wiki)
+
+## Collaboration
+- Each team member works on a separate branch.
+- Changes are submitted through pull requests.
+- Another team member comments and approves before merging.
+- Everyone updates main after each merge.
