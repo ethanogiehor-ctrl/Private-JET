@@ -9,3 +9,8 @@ Ethan 223200421
 Jibraan 
 Prince 223195282
 Toufiq 222893796
+
+## Project Goals
+-Help students find study partners.
+-Help students organize thier academic goals.
+-make it easier for students to connect and support each other.
