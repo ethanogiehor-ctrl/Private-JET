@@ -14,3 +14,9 @@ Toufiq 222893796
 -Help students find study partners.
 -Help students organize thier academic goals.
 -make it easier for students to connect and support each other.
+
+## Design Documents
+- [User Stories & Acceptance Criteria](docs/design/user-stories.md)
+- [Architecture & Components](docs/design/Architecture.md)
+- [Data & Content](docs/design/Data-content.md)
+- [Risks & Constraints](docs/design/Risk-constraints.md)
