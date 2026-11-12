@@ -21,7 +21,7 @@ ACTIVITY 1
 
 Team Roles
 
-Facilitator: Jibraan
+Facilitator: Jibraan.
 
 Scribe: Ethan
 
